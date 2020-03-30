@@ -1,5 +1,5 @@
 # Testing
 
-## [Bibliography-Test](./bib.html)
+## [Bibliography](./bib.html)
 
 Yalçın A.
