@@ -1,4 +1,6 @@
 # yalcinaktekin.github.io
-# [Bibliography](./bib.html).
-bu bir deneme
+# [Bibliography](./bib.html)
+
 Yalçın A.
+
+
