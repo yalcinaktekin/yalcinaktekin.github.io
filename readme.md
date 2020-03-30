@@ -1,1 +1,0 @@
-yalcinaktekin.github.io
