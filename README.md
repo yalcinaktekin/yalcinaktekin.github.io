@@ -1,3 +1,6 @@
 # yalcinaktekin.github.io
-# Deneme
+# [Bibliography](./bib.html).
+
 bu bir deneme
+
+Yalçın A.
