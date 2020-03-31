@@ -1,15 +1,2 @@
 ##Deneme
-<body>
-    <style>
-body {background-image: url('/checker.png');}
-</style>
-    <button onclick="document.location = './'"><strong>HOME</strong></button>
-    <h4>Bibliography</h4>
-      <section>
-
-      <script src="https://bibbase.org/show?bib=https%3A%2F%2Fyalcinaktekin.github.io%2FLibrary.bib&jsonp=1"></script>
-
-      </section>
-    </div>
-  </body>
-</html>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fyalcinaktekin.github.io%2FLibrary.bib&jsonp=1"></script>
