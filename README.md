@@ -1,7 +1,7 @@
 # Testing
 ***
 ## [Bibliography](./bib.html)
-Yalçın Aktekin
+Yalcin Aktekin
 ```
 e-mail: |
 ```
