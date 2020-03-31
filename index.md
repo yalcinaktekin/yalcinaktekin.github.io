@@ -2,7 +2,7 @@
 ***
 ## [Bibliography](./bib.html)
 Yalcin Aktekin
-## [Deneme](./deneme.html)
+## [Deneme](./theme.md)
 ```
 e-mail: |
 ```
