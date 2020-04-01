@@ -1,8 +1,8 @@
 # Testing
 ***
-## [Bibliography](./bib.html)
+## [Bibbase](./bibbase/bibbase.html)
 Yalcin Aktekin
-## [Library](./Library.html)
+## [Bibliography](./bib/bib.html)
 ```
 e-mail: |
 ```
