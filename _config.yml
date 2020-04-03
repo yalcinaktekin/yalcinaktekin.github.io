@@ -1,22 +1,15 @@
-# Dependencies
-
-# Permalinks
-permalink:        pretty
-
 # Setup
 title:            Yalcin Aktekin
 tagline:          '{Sources and Bibliographies}'
 description:      'Yalcin Aktekin'
 url:              https://yalcinaktekin.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+# Gems
+plugins:
+  - jekyll-paginate
 
 # Custom vars
 version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
